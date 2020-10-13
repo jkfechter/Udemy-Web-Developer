@@ -1,0 +1,22 @@
+h1 {
+    color: #ff8000;
+    border: 5px solid purple;
+
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+ */
+}
+
+li {
+    color: rgb(100, 0, 100);
+}
+h4 {
+    color: rgba(11, 99, 150, .6);
+    background: rgb(255, 100, 80)
+}
+body {
+    background: url(https://cdn.ready-market.com/106/aed8e971//Templates/pic/lcm-B148-top.jpg?v=a355c1b8);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
