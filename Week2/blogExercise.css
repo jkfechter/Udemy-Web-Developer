@@ -1,0 +1,45 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 61.77%;
+    margin: 20px auto;
+    border: 20px solid #bdc3c7;
+}
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding-left: 20px;
+}
+h2 {
+    color: #2c3e50;
+    text-transform: capitalize;
+    padding-left: 20px;
+}
+p {
+    padding: 0 20px;
+}
+
+hr {
+    margin: 0 20px;
+}
+h2 + p {
+    border-left: 5px solid #bdc3c7;
+    margin-left: 20px;
+    padding-left: 5px;
+}
+
+
+/* border color:#bdc3c7
+date color: #3498db
+h2 color: #2c3e50
+
+font: source sans pro 
+
+border body 20px
+
+left border on 1st paragraph
+
+date is all caps and letter spacing
+
+inbetween posts is hr element -- hr styles
+*/
