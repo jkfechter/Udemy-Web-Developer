@@ -1,7 +1,7 @@
-let hen = {
+const hen = {
     name: 'Helen',
     eggCount: 0,
-    layAnEgg:  layAnEgg => {
+    layAnEgg:  () => {
         hen.eggCount++;
         return "EGG";
     }
